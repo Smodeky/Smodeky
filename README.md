@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kyrylo
 
-🎓 3rd year Computer Science student at Opole University of Technology (Politechnika Opolska)
+🎓 3rd year Computer Science student at Opole University of Technology (Politechnika Opolska)  
 💻 Interested in fullstack development, system programming and game dev  
 
 ---
