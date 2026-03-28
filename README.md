@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kyrylo
 
-🎓 3rd year Computer Science student at Opole University of Technology  
-💻 Interested in fullstack development (leaning backend), system programming and game dev  
+🎓 3rd year Computer Science student at Opole University of Technology (Politechnika Opolska)
+💻 Interested in fullstack development, system programming and game dev  
 
 ---
 
@@ -56,20 +56,7 @@
 
 ---
 
-## 🎯 Goals
-
-- Build strong backend + system programming skills  
-- Create solid public projects on GitHub  
-- Contribute to open-source  
-- Grow into a confident fullstack/backend developer  
-
----
-
 ## 📫 Contact
 
 - GitHub: https://github.com/Smodeky  
 - Email: kudod932@gmail.com  
-
----
-
-⭐ Always open to learning, collaboration and new challenges
